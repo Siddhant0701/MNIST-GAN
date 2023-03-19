@@ -32,7 +32,7 @@ After training for 5000 epochs:
 
 The loss curves for the CCGAN are shown below:
 
-![CCGAN Loss](/images/ccgan_loss.png)
+![CCGAN Loss](/images/loss.png)
 
 
 This shows that the loss for the generator and discriminator stablisize after about 1000 epochs of training. However, the images still keep improving after 1000 epochs, so it is possible to train the network for longer to generate even better images.
